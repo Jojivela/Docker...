@@ -17,3 +17,4 @@ Ejecutar el comando de Windows "cmd" como ADMINISTRADOR (con botón derecho del 
 así sabremos las distribuciones de linux que tenemos:
 wsl --install -d Ubuntu (después actualizar con apt update)
 Por último nos queda pasar la versión de wsl 1 a wsl 2 
+<img width="947" height="474" alt="imagen_2026-10-09_180717470" src="https://github.com/user-attachments/assets/e9c33e7d-ed87-49f4-af49-bce71398f5d2" />
